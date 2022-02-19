@@ -1,0 +1,11 @@
+😒Logeo a perfil de usuario con cookies y opciones que solo puede acceder 
+alguien logueado (Middleware de autenticación)
+
+😬 OJO : TOCA CREAR UNA VISTA DE PERFIL LUEGO DE LOGEARSE EL USUARIO, 
+DISTINTA A LA LISTA DE PERFIL DE USUARIO😬
+
+😒 Corregir la parte en que solo con el correo puedo iniciar sesión sin necesidad 
+de contraseña (tema del userController)
+
+😒 JS desde el frontend para avisar que se borrará un usuario! (Opcional)
+
